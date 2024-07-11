@@ -9,7 +9,7 @@ Este es un ejemplo de una app con recuadro para firmas, muy útil para apps que 
 * [Buy me a coffee](https://www.buymeacoffee.com/oscarsevgar)
 
 ## Ver ejemplo en vivo
-- [Enlace al video en mi canal de YouTube](https://youtu.be/-xGb06pFQdc/)
+- [Enlace al video en mi canal de YouTube](https://youtube.com/shorts/js-mq1eUPMI/)
 
 ## Instalación
 1) Abrir el repositorio en tu local con XCode
